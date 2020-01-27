@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProyectSetApp</string>
+
+
+    <!-- Buttons. -->
+    <string name="date">Fecha de reserva</string>
+    <string name="button_next">Siguiente</string>
+    <string name="button_select">Selecionar</string>
+
+
+    <string name="text_names">Nombres</string>
+
+
+</resources>
